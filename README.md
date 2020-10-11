@@ -3,6 +3,7 @@ Dedicated to making interactive experiences that bring people together
 I enjoy programming in C and Python
 - 🎵 Musician 
 - 📷 Photographer 
+- ⌨️ Programmer
 
 ## Experience
 - Information Technology Support @ University of San Francisco (2019)
