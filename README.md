@@ -5,7 +5,7 @@ I enjoy programming in C and Python
 - 📷 Photographer 
 - ⌨️ Programmer
 
-## Experience
+## Experience 🖥️ 
 - Information Technology Support @ University of San Francisco (2019)
 
 ## Education 📚
