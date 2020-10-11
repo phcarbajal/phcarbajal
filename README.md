@@ -2,7 +2,7 @@
 - Musician, Photographer, SWE 
 
 ## Experience
-- ITS @ University of San Francisco (2019)
+- Information Technology Support @ University of San Francisco (2019)
 
 ## Education 📚
 - B.S. Business Administration San Jose State University (2018), Cum Laude Honors & Dean's List
