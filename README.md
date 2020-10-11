@@ -1,5 +1,8 @@
 ## Hello Hello 👋🏽
-- Musician, Photographer, SWE 
+Dedicated to making interactive experiences that bring people together  
+I enjoy programming in C and Python
+- 🎵 Musician 
+- 📷 Photographer 
 
 ## Experience
 - Information Technology Support @ University of San Francisco (2019)
@@ -9,3 +12,4 @@
 - AS-T Business Administration College of San Mateo (2017)
 
 ## Certifications 📜
+- Data Science for Product Managers, USFCA Data Institute
