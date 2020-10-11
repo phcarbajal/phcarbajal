@@ -7,3 +7,5 @@
 ## Education
 - B.S. Business Administration San Jose State University (2018)
 - AS-T Business Administration College of San Mateo (2017)
+
+## Certifications
