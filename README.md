@@ -1,4 +1,4 @@
-### Hello Hello 👋🏽
+# Hello Hello 👋🏽
 - Musician, Photographer, SWE 
 
 ## Experience
