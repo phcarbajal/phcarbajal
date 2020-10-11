@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello Hello 👋🏽
+- Musician, Photographer, SWE 
 
 <!--
 **phcarbajal/phcarbajal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
