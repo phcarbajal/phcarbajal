@@ -1,5 +1,5 @@
-## Hello Hello 👋🏽
-Dedicated to making interactive experiences that bring people together  
+## Hello 👋🏽
+My name is Pablo and I make interactive experiences that bring people together  
 I enjoy programming in C and Python
 - 🎵 Musician 
 - 📷 Photographer 
