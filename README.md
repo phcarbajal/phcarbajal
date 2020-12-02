@@ -11,6 +11,3 @@ I enjoy programming in C and Python
 ## Education 📚
 - B.S. Business Administration San Jose State University (2018), Cum Laude Honors & Dean's List
 - AS-T Business Administration College of San Mateo (2017)
-
-## Certifications 📜
-- Data Science for Product Managers, USFCA Data Institute
