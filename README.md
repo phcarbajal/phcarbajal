@@ -9,5 +9,5 @@ I enjoy programming in C and Python
 - Information Technology Support @ University of San Francisco (2019 - 2020)
 
 ## Education 📚
-- B.S. Business Administration San Jose State University (2018), Cum Laude Honors & Dean's List
+- B.S. Business Administration San Jose State University (2018), Graduated Cum Laude Honors & Dean's List
 - AS-T Business Administration College of San Mateo (2017)
